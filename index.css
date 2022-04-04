@@ -1,0 +1,42 @@
+.navbar-brand{
+    padding-left: 6%;
+}
+.image{
+    width: 200px;
+}
+p{
+    color: blue;
+    font-weight: bolder;
+}
+h2{
+    text-align: center;
+    margin-top: 7%;
+    margin-bottom: 7%;
+    font-weight: bolder;
+}
+
+.position{
+    text-align: center;
+}
+.icon{
+    font-size: 100px;
+    color: blue;
+}
+h3{
+    color: black;
+}
+#content{
+margin-left: 15%;
+}
+@media (min-width: 900px) {
+    #content{
+        margin-left: 5%;
+    }
+    
+}
+#socialsites{
+    text-align: center;
+}
+h4{
+    padding-right: 1rem;
+}
